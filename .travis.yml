@@ -7,3 +7,5 @@
   - "3.5"
   - "3.6"
   - "3.7"
+  script:
+    caesar_cipher
